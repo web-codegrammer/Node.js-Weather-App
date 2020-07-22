@@ -1,4 +1,4 @@
-#Node-Express.js-weather-app
+# Node + Express.js-weather-app
 Simple Node + Express.js Weather Application (website)
 
 * Check out the **[Live Demo](https://web-codegrammer-weather-app.herokuapp.com/)**
