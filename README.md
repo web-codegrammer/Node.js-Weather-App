@@ -15,4 +15,8 @@ node server.js
 Deployed on Heroku App !!
 
 # License
+
 [MIT](https://github.com/web-codegrammer/Node.js-Weather-App/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+
